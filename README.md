@@ -1,4 +1,4 @@
-# IntroToDapp
+# Intro To Dapps
 All codes are notes and credits goes to cryptozombies.io 
 
 Who Made CryptoZombies and Why Is It Free?
