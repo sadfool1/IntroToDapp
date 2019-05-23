@@ -1,4 +1,4 @@
-Chapter 3: State Variables & Integers
+// Chapter 3: State Variables & Integers
 pragma solidity ^0.4.25;
 
 contract ZombieFactory {
