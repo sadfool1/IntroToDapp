@@ -40,6 +40,7 @@ function generateZombie(id, name, dna) {
     // to get a number 0 - 6, then add 1 to make it 1 - 7. Then we have 7
     // image files named "head1.png" through "head7.png" we load based on
     // this number:
+    
     headChoice: dnaStr.substring(0, 2) % 7 + 1,
     // 2nd 2 digits make up the eyes, 11 variations:
     eyeChoice: dnaStr.substring(2, 4) % 11 + 1,
